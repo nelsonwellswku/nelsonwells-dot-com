@@ -1,0 +1,4 @@
+baseURL = 'https://nelsonwells.com/'
+languageCode = 'en-us'
+title = 'Nelson Wells'
+theme = 'beautifulhugo'
