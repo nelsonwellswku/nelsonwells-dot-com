@@ -2,3 +2,20 @@ baseURL = 'https://nelsonwells.com/'
 languageCode = 'en-us'
 title = 'Nelson Wells'
 theme = 'beautifulhugo'
+
+[Params]
+    subtitle = 'Programming and other distractions'
+    useHLJS = true
+    readingTime = true
+    showRelatedPosts = true
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
+
+ [Author]
+    name = 'Nelson Wells'
+    github = 'nelsonwellswku'
+    linkedin = 'nelsonwellswku'
+    youtube = 'nelsonwellswku'
