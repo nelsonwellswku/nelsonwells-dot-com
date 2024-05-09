@@ -2,7 +2,7 @@
 title = 'Autofixture Do() not working? You forgot Without()'
 date = 2016-07-01T15:00:00-05:00
 tags = ['programming', 'csharp', 'unit testing']
-draft = true
+draft = false
 +++
 I use [Autofixture](https://github.com/AutoFixture/AutoFixture) for generating test data in my unit tests. AutoFixture has served me well, but the documentation doesn't give great examples of how to use it. The "cheat sheet" has links to the authors blogs, and if you're not careful you won't find everything you need. It's sometimes easy to miss those links.
 

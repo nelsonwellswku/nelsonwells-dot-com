@@ -1,7 +1,7 @@
 +++
 title = 'If Akka Testkit Nunit Tests Are Not Running Check Your Package Versions'
 date = 2016-01-18T15:00:00-05:00
-draft = true
+draft = false
 tags = ['programming', 'csharp', 'akka.net']
 +++
 As of this writing, Akka.TestUnit.NUnit and NUnit 3 are incompatible with one another. Specifically, package version 1.0.5 and NUnit 3.0.1. I've opened an issue with the Akka.net team [Issue 1651](https://github.com/akkadotnet/akka.net/issues/1651) so you can watch it for the resolution to this problem.

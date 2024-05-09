@@ -2,7 +2,7 @@
 title = 'Using Delegates for Loose Coupling and Easy Unit Testing'
 date = 2016-06-14T15:00:00-05:00
 tags = ['programming', 'csharp', 'automapper', 'unit testing']
-draft = true
+draft = false
 +++
 In a typical ASP.NET MVC or WebApi project, controller actions often do nothing more than make a service call, map the returned domain object to a view model, and either render a view with the model or simply return it for the framework to serialize as JSON. Using [AutoMapper](http://automapper.org/), a simplified WebApi controller action may look something like
 
