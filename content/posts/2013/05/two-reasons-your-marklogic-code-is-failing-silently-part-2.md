@@ -4,7 +4,7 @@ date = 2013-05-19T15:00:00-05:00
 draft = false
 tags = ['programming', 'functional programming', 'marklogic', 'xquery']
 +++
-Silent failures are a programmer's worst nightmare, and in a world where first class debuggers are few and far between, those silent failures are sure to drive us crazy.  In the first half of this article, we discussed [Two reasons your MarkLogic code is failing silently, part 1]({{< ref "/posts/2013/08/freecell-is-a-good-distraction" >}}) silent failures in MarkLogic due to XML namespace issues.  XML namespace issues are going to crop up in any implementation of XQuery, though, so there are many resources to reference in addition to my article.
+Silent failures are a programmer's worst nightmare, and in a world where first class debuggers are few and far between, those silent failures are sure to drive us crazy.  In the first half of this article, we discussed [Two reasons your MarkLogic code is failing silently, part 1]({{< ref "/posts/2012/10/two-reasons-your-marklogic-code-is-failing-silently-part-1" >}}) silent failures in MarkLogic due to XML namespace issues.  XML namespace issues are going to crop up in any implementation of XQuery, though, so there are many resources to reference in addition to my article.
 
 In the second (and last) part of the article, we'll discuss a feature specific to MarkLogic's XQuery implementation.  This feature is called [function mapping](http://docs.marklogic.com/guide/xquery/enhanced#id_55459).
 
