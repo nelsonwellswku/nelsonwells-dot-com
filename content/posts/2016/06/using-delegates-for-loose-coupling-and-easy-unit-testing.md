@@ -1,5 +1,5 @@
 +++
-title = 'Using Delegates for Loose Coupling and Easy Unit Testing'
+title = 'Using delegates for loose coupling and easy unit testing'
 date = 2016-06-14T15:00:00-05:00
 tags = ['programming', 'csharp', 'automapper', 'unit testing']
 draft = false

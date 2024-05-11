@@ -1,5 +1,5 @@
 +++
-title = 'Sometimes You Should Just Go Look'
+title = 'Sometimes you should just go look'
 date = 2014-07-14T15:00:00-05:00
 draft = false
 tags = ['programming', 'distraction']
