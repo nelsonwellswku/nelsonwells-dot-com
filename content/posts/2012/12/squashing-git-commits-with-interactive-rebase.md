@@ -1,5 +1,5 @@
 +++
-title = 'Squashing Git Commits With Interactive Rebase'
+title = 'Squashing git commits with interactive rebase'
 date = 2012-12-06T15:00:00-05:00
 draft = false
 tags = ['git', 'youtube']
