@@ -1,5 +1,5 @@
 +++
-title = 'If Akka Testkit Nunit Tests Are Not Running Check Your Package Versions'
+title = 'If Akka.TestKit.NUnit tests are not running, check your package versions'
 date = 2016-01-18T15:00:00-05:00
 draft = false
 tags = ['programming', 'csharp', 'akka.net']

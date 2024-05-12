@@ -1,8 +1,8 @@
 +++
-title = 'Sometimes You Should Just Go Look'
+title = 'Sometimes you should just go look'
 date = 2014-07-14T15:00:00-05:00
 draft = false
-tags = ['programming', 'distraction']
+tags = ['programming', 'distraction', 'observation']
 +++
 Fair warning: I shamelessly stole this story from a colleague.  Let's call him Jimmy. He doesn't have a web presence though, and I think it's worth sharing.
 

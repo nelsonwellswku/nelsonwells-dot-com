@@ -1,8 +1,8 @@
 +++
-title = 'Replace Switch Statements With Dictionaries'
+title = 'Replace switch statements with dictionaries'
 date = 2015-02-22T15:00:00-05:00
 draft = false
-tags = ['programming']
+tags = ['programming', 'csharp']
 +++
 I don't care for switch statements in C#. They're a poor substitution for [pattern matching](http://en.wikipedia.org/wiki/Pattern_matching). They require a compile time constant like a string, an enum, or an integral. Because of that restriction, they are not even a good replacement for giant if-else constructs, which was their intended purpose. On top of all of that, their syntax is ugly and error-prone. Ever left out a break; and saw some unintended consequences due to the fall through?
 
