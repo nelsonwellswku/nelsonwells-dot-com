@@ -1,3 +1,6 @@
 [submodule "themes/beautifulhugo"]
 	path = themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "themes/ndwbeautifulhugo"]
+	path = themes/ndwbeautifulhugo
+	url = https://github.com/nelsonwellswku/beautifulhugo
