@@ -1,7 +1,7 @@
 +++
 title = 'Swap object keys and values in Javascript'
 date = 2011-10-11T15:00:00-05:00
-draft = true
+draft = false
 tags = ['programming', 'javascript']
 +++
 There are times when I would like to do work with the values in a Javascript object used as a hash map.  For example, sometimes I'd like to iterate over the values and perform an action on them, or perhaps check that a value exists in the hash map.  In this post, I'll write a function that inverts the keys and values in a hash map, give a couple of examples in regards to how and why you'd want to do that, and explain the short-comings of the approach.
