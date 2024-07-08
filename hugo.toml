@@ -19,6 +19,11 @@ theme = 'ndwbeautifulhugo'
     url = "tags"
     weight = 2
 
+[[menu.main]]
+    name = "About"
+    url = "about"
+    weight = 3
+
  [Author]
     name = 'Nelson Wells'
     github = 'nelsonwellswku'
