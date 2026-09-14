@@ -92,6 +92,6 @@ Besides Python, I primarily use TypeScript and C#, and neither of them has the c
         Console.WriteLine($"{coupleId} --> {names}");
     }
 
-You can find the complete code samples for each language in [GitHub](..).
+You can find the complete code samples for each language in [GitHub](https://github.com/nelsonwellswku/blog-stuff/tree/master/python-group-by-has-surprising-behavior).
 
 Happy coding!
