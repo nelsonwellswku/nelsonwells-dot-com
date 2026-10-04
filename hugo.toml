@@ -1,7 +1,7 @@
 baseURL = 'https://nelsonwells.com'
-languageCode = 'en-us'
+locale = 'en-US'
 title = 'Nelson Wells'
-theme = 'ndwbeautifulhugo'
+theme = 'beautifulhugo'
 
 [Params]
     subtitle = 'Programming and other distractions'
@@ -24,8 +24,8 @@ theme = 'ndwbeautifulhugo'
     url = "about"
     weight = 3
 
- [Author]
+[Params.author]
     name = 'Nelson Wells'
     github = 'nelsonwellswku'
-    linkedin = 'nelsonwellswku'
+    linkedin = 'https://linkedin.com/in/nelsonwellswku'
     youtube = 'nelsonwellswku'

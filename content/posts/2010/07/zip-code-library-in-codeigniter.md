@@ -8,7 +8,7 @@ Recently, a client wanted a member search for his website that included a search
 
 <!--more-->
 
-<h3>The Code</h3>
+## The Code
 
 First, you'll need to create your database.  You can use this MySQL script to create the table.
 
