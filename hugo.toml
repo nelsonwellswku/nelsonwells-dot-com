@@ -1,5 +1,5 @@
 baseURL = 'https://nelsonwells.com'
-languageCode = 'en-us'
+locale = 'en-US'
 title = 'Nelson Wells'
 theme = 'beautifulhugo'
 
