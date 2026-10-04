@@ -1,7 +1,7 @@
 baseURL = 'https://nelsonwells.com'
 languageCode = 'en-us'
 title = 'Nelson Wells'
-theme = 'ndwbeautifulhugo'
+theme = 'beautifulhugo'
 
 [Params]
     subtitle = 'Programming and other distractions'
