@@ -24,8 +24,8 @@ theme = 'beautifulhugo'
     url = "about"
     weight = 3
 
- [Author]
+[Params.author]
     name = 'Nelson Wells'
     github = 'nelsonwellswku'
-    linkedin = 'nelsonwellswku'
+    linkedin = 'https://linkedin.com/in/nelsonwellswku'
     youtube = 'nelsonwellswku'
