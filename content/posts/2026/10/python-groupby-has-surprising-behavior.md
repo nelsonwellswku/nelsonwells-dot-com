@@ -1,8 +1,8 @@
 +++
 title = 'Python groupby has surprising behavior'
-date = 2026-09-13T15:00:00-05:00
+date = 2026-10-04T10:00:00-05:00
 tags = ['programming', 'python', 'csharp', 'javascript']
-draft = true
+draft = false
 +++
 Python's [groupby from itertools](https://docs.python.org/3/library/itertools.html#itertools.groupby) has surprising behavior if you compare it to other languages' `group by` implementations.
 
@@ -92,6 +92,4 @@ Besides Python, I primarily use TypeScript and C#, and neither of them has the c
         Console.WriteLine($"{coupleId} --> {names}");
     }
 
-You can find the complete code samples for each language in [GitHub](https://github.com/nelsonwellswku/blog-stuff/tree/master/python-group-by-has-surprising-behavior).
-
-Happy coding!
+The output is similar in both languages as if you sorted the input first in Python. You can find the complete code samples for each language in [GitHub](https://github.com/nelsonwellswku/blog-stuff/tree/master/python-group-by-has-surprising-behavior).
